@@ -1,6 +1,8 @@
 # Remote-Keylogger
 # Project Goal:
-Create a remote keylogger in python, disguise as photo, remote transmit, create a fun saftey key to stop program.
-![image](https://github.com/user-attachments/assets/81b0db2c-8324-4476-9884-4760633badec)
+A keylogger program built on Python . It will send emails after recording keys.
+![image](https://github.com/user-attachments/assets/da5e886c-e9dc-4c85-8a3e-6b280e13fbbd)
+
+
 
 
