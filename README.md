@@ -8,5 +8,5 @@ Download the smptblib libary: pip install secure-smtplib
 # STEP 2
 Put ur email and password( Makes sure its your google app password) in the EMAILS INFOS.py 
 if you are not using gmail then change the port number and server to your host email provider.
- #STEP 3 
+# STEP 3 
 Use this tool responsibly and only on systems where you have explicit permission to monitor. Unauthorized access to computer systems is illegal.
